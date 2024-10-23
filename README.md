@@ -11,6 +11,6 @@
 ***HOW TO USE:***
 1. Download the script
 2. Use your terminal to grant permissions `chmod +x disk_image_backup.sh`
-3. Run `./disk_image_backup.sh`
+3. Run `sudo ./disk_image_backup.sh`
 
 ### After running the script will ask you for your preferred language, at the moment it only supports Polish and English.
